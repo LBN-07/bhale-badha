@@ -1,0 +1,25 @@
+body{
+    background-color: grey;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.bhalebadha.L {
+    width:fit-content;
+    margin-left:auto;
+    margin-right:auto;
+    color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:center;
+}
+
+
+
+
+
+
+
